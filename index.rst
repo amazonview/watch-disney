@@ -10,7 +10,7 @@ Disney Plus Begin Code Is Not Working? How to Fix
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_21.png
    :width: 350px
    :align: center
    :height: 100px
